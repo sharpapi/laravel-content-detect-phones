@@ -7,7 +7,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sharpapi/laravel-content-detect-phones.svg?style=flat-square)](https://packagist.org/packages/sharpapi/laravel-content-detect-phones)
 [![Total Downloads](https://img.shields.io/packagist/dt/sharpapi/laravel-content-detect-phones.svg?style=flat-square)](https://packagist.org/packages/sharpapi/laravel-content-detect-phones)
 
-Check the details at SharpAPI's [Content API](https://sharpapi.com/en/catalog/ai/content) page.
+Check the details at SharpAPI's [AI Phone Numbers Detector API](https://sharpapi.com/en/catalog/ai/content-marketing-automation/phone-numbers-detector) page.
 
 ---
 
