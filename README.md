@@ -14,7 +14,7 @@ Check the details at SharpAPI's [AI Phone Numbers Detector API](https://sharpapi
 ## Requirements
 
 - PHP >= 8.1
-- Laravel >= 9.0
+- Laravel >= 10.48.29
 
 ---
 
